@@ -48,3 +48,4 @@ To change Odoo configuration, edit file: **etc/odoo.conf**.
 ![odoo-12-sales](screenshots/odoo-12-sales-screen.png)# tmpl12
 # odoo12b
 # odoo13
+# odoo12
